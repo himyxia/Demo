@@ -11,6 +11,6 @@ func main()  {
 	fmt.Println("come on baby 18")
 	fmt.Println("come on baby 19")
 	fmt.Println("come on baby 20")
-	fmt.Println("come on shit 7")
+	fmt.Println("failure-1")
 }
 
